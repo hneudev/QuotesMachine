@@ -9,7 +9,7 @@ This is a simple app that displays one quote at a time an its author.
 ##Install
 
 ```bash
-git clone https....
+git clone https://github.com/hneudev/QuotesMachine/
 cd todo
 npm install
 npm start
